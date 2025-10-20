@@ -126,7 +126,16 @@ Berikut adalah gambaran umum struktur folder penting dalam proyek Laravel ini:
 Kontribusi dalam bentuk apapun sangat kami hargai. Jika Anda ingin berkontribusi, silakan fork repository ini dan buat pull request.
 
 1.  Fork a project
-2.  Buat branch fitur Anda (`git checkout -b feature/AmazingFeature`)
-3.  Commit perubahan Anda (`git commit -m 'Add some AmazingFeature'`)
-4.  Push ke branch (`git push origin feature/AmazingFeature`)
+2.  Buat branch fitur Anda 
+```bash
+git checkout -b feature/AmazingFeature
+```
+3.  Commit perubahan Anda 
+```bash
+git commit -m 'Add some AmazingFeature'
+```
+4.  Push ke branch 
+```bash
+git push origin feature/AmazingFeature
+```
 5.  Buka Pull Request

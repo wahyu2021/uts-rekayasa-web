@@ -35,8 +35,8 @@ Ikuti langkah-langkah berikut untuk menginstal dan menjalankan proyek ini secara
 
 1.  **Clone repository:**
     ```bash
-    git clone https://github.com/username/reponame.git
-    cd reponame
+    git clone https://github.com/wahyu2021/uts-rekayasa-web.git
+    cd uts-rekayasa-web
     ```
 
 2.  **Install dependensi PHP:**

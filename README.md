@@ -10,14 +10,13 @@ Proyek ini adalah aplikasi e-commerce sederhana yang dibangun menggunakan framew
 - [Menjalankan Aplikasi](#menjalankan-aplikasi)
 - [Struktur Folder](#struktur-folder)
 - [Kontribusi](#kontribusi)
-- [Lisensi](#lisensi)
 
 ## Fitur
-
--   Tampilan produk
+-   Tampilan beranda (sudah diimplementasikan)
+-   Tampilan produk (belum diimplementasikan)
 -   Halaman detail produk (belum diimplementasikan)
 -   Keranjang belanja (belum diimplementasikan)
--   Sistem otentikasi pengguna (dasar)
+-   Sistem otentikasi pengguna (belum diimplementasikan)
 -   Desain responsif menggunakan Bootstrap
 
 ## Prasyarat
@@ -27,7 +26,7 @@ Pastikan lingkungan pengembangan Anda memenuhi persyaratan berikut sebelum memul
 -   PHP >= 8.2
 -   Composer
 -   Node.js & NPM
--   Database (misalnya: MySQL, PostgreSQL, atau SQLite)
+-   Database MySQL atau MariaDB
 
 ## Instalasi & Konfigurasi
 

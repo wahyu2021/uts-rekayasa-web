@@ -1,6 +1,6 @@
 <!-- Testimonial Section -->
-<section class="section-padding" style="background-color: var(--light-color);">
-    <div class="container">
+<section class="section-padding section-full bg-light-gray">
+    <div class="container container-spaced">
         <h2 class="section-title">Testimoni Pelanggan</h2>
         <p class="section-subtitle">Kepuasan pelanggan adalah prioritas utama kami</p>
         

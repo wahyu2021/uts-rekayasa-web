@@ -1,6 +1,6 @@
 <!-- Produk Unggulan Section -->
-<section id="produk" class="section-padding" style="background-color: var(--light-color);">
-    <div class="container">
+<section id="produk" class="section-padding section-full bg-light-gray">
+    <div class="container container-spaced">
         <h2 class="section-title">Produk Unggulan</h2>
         <p class="section-subtitle">Koleksi produk terbaik pilihan kami untuk Anda</p>
         

@@ -1,6 +1,6 @@
 <!-- Keunggulan Section -->
-<section class="section-padding">
-    <div class="container">
+<section class="section-padding section-full bg-white">
+    <div class="container container-spaced">
         <h2 class="section-title">Mengapa Memilih Kami?</h2>
         
         <div class="row g-4 mt-4">

@@ -34,7 +34,7 @@
         </div>
         <div class="footer-bottom">
             <p>&copy; 2025 UMKM Store. Semua hak dilindungi. Dibuat dengan <i class="bi bi-heart-fill"
-                    style="color: #EC4899;"></i> untuk UMKM Indonesia.</p>
+                    style="color: var(--accent-color);"></i> untuk UMKM Indonesia.</p>
         </div>
     </div>
 </footer>

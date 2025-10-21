@@ -21,7 +21,7 @@
                             </div>
                         @endif
 
-                        <form action="{{ route('login') }}" method="POST">
+                        <form action="{{ route('auth.login') }}" method="POST">
                             @csrf
                             <div class="mb-3">
                                 <label for="email" class="form-label">Alamat Email</label>
@@ -41,7 +41,7 @@
                             </div>
                         </form>
                         <div class="mt-4 text-center">
-                            <p>Belum punya akun? <a href="{{ route("register") }}">Daftar sekarang</a></p>
+                            <p>Belum punya akun? <a href="{{ route('auth.register') }}">Daftar sekarang</a></p>
                         </div>
                     </div>
                 </div>

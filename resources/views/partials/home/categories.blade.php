@@ -1,6 +1,6 @@
 <!-- Kategori Section -->
-<section id="kategori" class="section-padding">
-    <div class="container">
+<section id="kategori" class="section-padding section-full bg-white">
+    <div class="container container-spaced">
         <h2 class="section-title">Jelajahi Kategori</h2>
         <p class="section-subtitle">Temukan produk favorit Anda dari berbagai kategori pilihan</p>
         

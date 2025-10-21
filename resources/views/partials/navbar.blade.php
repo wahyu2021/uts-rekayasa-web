@@ -12,9 +12,6 @@
                     <a class="nav-link" href="#produk">Produk</a>
                 </li>
                 <li class="nav-item">
-                    <a class="nav-link" href="#kategori">Kategori</a>
-                </li>
-                <li class="nav-item">
                     <a class="nav-link" href="#tentang">Tentang</a>
                 </li>
                 <li class="nav-item">
@@ -25,7 +22,7 @@
                 <a href="/cart" class="btn btn-outline-primary me-2">
                     <i class="bi bi-cart3"></i> Keranjang
                 </a>
-                <a href="/login" class="btn btn-primary">
+                <a href="{{ route('login') }}" class="btn btn-primary">
                     <i class="bi bi-person"></i> Masuk
                 </a>
             </div>
